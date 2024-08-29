@@ -36,6 +36,5 @@ Este repositorio contiene la documentación y los resultados de las pruebas para
         -Contiene los informes de errores con enlaces a Jira.
 
      Plantillas y formatos.
-        Google_Sheets_Template.xlsx: Plantilla para la hoja de cálculo.
         
 https://docs.google.com/document/d/1V8bkS6HV3qgVKLqaowHwpvgd2YAMcAjy/edit
