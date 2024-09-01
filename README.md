@@ -13,13 +13,15 @@ En este proyecto, se probó la funcionalidad de compartir un automóvil en la ap
 
 - **Google Sheets:** Para la documentación y gestión de listas de comprobación y casos de prueba.
 - **Google Docs:** Para el resumen y conclusiones del proyecto.
+- **Figma:** Para crear documentación visual que detalle cómo deberían lucir y comportarse los elementos de la interfaz
 - **Jira (Atlassian):** Para la gestión y documentación de informes de errores.
 
 ## Cómo Empezar
 
-1. **Preparar la Documentación:**
-   - Abre y completa la plantilla de Google Sheets con las listas de comprobación y casos de prueba requeridos.
-   - Adjunta el enlace a la tabla de Google Sheets en la plantilla de Google Docs, junto con cualquier otro enlace requerido.
+1. **Iniciar el Servidor:**
+   - Haz clic en el botón "Iniciar el servidor" para lanzar el servidor local de la aplicación.
+   - Espera hasta 2 minutos para que el servidor se inicie completamente.
+   - Si ves un enlace antes de que todos los componentes estén listos, es posible que recibas el mensaje "Intenta desplegar el servidor primero". Espera a que todos los componentes estén operativos antes de acceder.
 
 2. **Crear Listas de Comprobación y Casos de Prueba:**
    - **Lista de Comprobación del Diseño del Formulario de Reserva:**
@@ -45,19 +47,6 @@ En este proyecto, se probó la funcionalidad de compartir un automóvil en la ap
    - Realiza las pruebas de diseño y funcionalidad en los entornos especificados.
    - Marca los resultados como APROBADO o NO APROBADO.
    - Para pruebas NO APROBADAS, crea un informe de errores en Jira e incluye el ID en la hoja de cálculo correspondiente.
-
-4. **Resumen y Conclusiones:**
-   - Completa la sección "Conclusiones" en la plantilla de Google Docs.
-   - Proporciona una impresión general de Urban Routes, detalles específicos sobre lo que se probó, un resumen de los resultados de las pruebas, y una conclusión sobre la viabilidad del producto para los usuarios.
-
-## Evaluación del Trabajo
-
-Tu trabajo será evaluado según los siguientes criterios:
-
-- **Diseño y Exhaustividad de los Casos de Prueba:** Asegúrate de que los casos de prueba sean bien diseñados y exhaustivos.
-- **Calidad de las Listas de Comprobación:** Las listas de comprobación deben estar bien creadas y las pruebas minuciosamente diseñadas.
-- **Ejecución de las Pruebas:** Las pruebas deben realizarse de manera eficiente y completarse todas las pruebas planeadas.
-- **Gestión de Errores:** Los errores detectados deben ser informados correctamente.
 
 ## Estructura del Repositorio
 
